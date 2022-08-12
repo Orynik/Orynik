@@ -4,19 +4,14 @@ Here some languages, what i know:
 -----
     * JavaScript (Beginning lvl);
     * Golang (Beginning lvl);
-    * C# (Beginning lvl);
     * PHP (Beginning lvl);
     * HTML + CSS (Medium lvl);
     * SQL (Beginning lvl);
 And some frameworks/libiraly/technologes what i worked:
 ----
-    * ASP.NET MVC (Beginning lvl);
-    * ASP.NET Web-Form (Beginning lvl);
-    * YII 2.0 (Beginning lvl);
-    * Node.js (Beginning lvl);
     * Docker (Lover than Beginning) lvl;
-    * Vue.js [Vue CLI] (Beginning lvl);
-    * MongoDB, MySQL, MSSQL;
+    * Vue.js 2/3 (Beginning lvl);
+    * MongoDB, MySQL;
 
 
 ## Some of my Github Stats
