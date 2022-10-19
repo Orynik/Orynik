@@ -23,7 +23,7 @@ And some frameworks/libiraly/technologes what i worked:
 [![Top Langs](https://github-readme-stats-axpwmfcg3.vercel.app/api/top-langs/?username=Orynik&layout=compact&theme=tokyonight)](https://github.com/pedes/github-readme-stats)
 
 
-Immediate goals:
+## Immediate goals:
    - Repeat Golang syntax
       - Create console chat (old project i want to end)
       - Backend for application (with vue 3 frontend)
