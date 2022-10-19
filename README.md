@@ -2,15 +2,15 @@
 
 Here some languages, what i know:
 -----
-    * JavaScript (Beginning lvl **Learn up now**)  ;
-    * Golang (Beginning lvl) **Learn up now** ;
-    * HTML + CSS (Medium lvl);
-    * SQL (Beginning lvl);
+    - JavaScript (Beginning lvl) **Learn up now**;
+    - Golang (Beginning lvl) **Learn up now**;
+    - HTML + CSS (Medium lvl);
+    - SQL (Beginning lvl);
 And some frameworks/libiraly/technologes what i worked:
 ----
-    * Docker (Lover than Beginning) lvl;
-    * Vue.js 2.7 (Beginning lvl);
-    * MongoDB, MySQL;
+    - Docker (Lover than Beginning) lvl;
+    - Vue.js 2.7 (Beginning lvl);
+    - MongoDB, MySQL;
 
 
 ## Some of my Github Stats
