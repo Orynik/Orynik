@@ -31,3 +31,4 @@ And some frameworks/libiraly/technologes what i worked:
       - Explore book 'u don't know js'
       - Create FullStack application with Golang backend
       - Try create Open Source component Autocomplete on Vanila JS
+    - Learnin VIM shortcuts for up perfomance to writing code
