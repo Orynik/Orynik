@@ -12,7 +12,7 @@ Here some languages, what i know:
 And some frameworks/libiraly/technologes what i worked:
 ----
    - Docker (Lover than Beginning) lvl;
-   - Vue.js 2.7 (Beginning lvl);
+   - Vue.js 2.7 (Middle lvl);
    - MongoDB, MySQL;
 
 
