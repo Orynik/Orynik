@@ -2,7 +2,7 @@
 
 Here some languages, what i know:
 -----
-   - JavaScript (Beginning lvl);
+   - JavaScript (Middle lvl);
      - **Learn up now**
    - Golang (Beginning lvl);
      - **Learn up now**
